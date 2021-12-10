@@ -76,6 +76,6 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to wireframe][wireframe]
 
-[form]: <https://github.com/Michal3456/4cti/blob/main/21/sprites/template.png>
+[form]: <https://github.com/daras77/4cti/blob/main/21/spirites/template.PNG>
 [db]: <https://github.com/daras77/4cti/blob/main/21/spirites/database.PNG>
 [wireframe]: <https://github.com/daras77/4cti/blob/main/21/spirites/wireframe.PNG>
