@@ -53,6 +53,8 @@ A subsection that presents a detailed description of the individual functionalit
 
 ## Technologies, programming languages and others
 
+Dillinger uses a number of open source projects to work properly:
+
 - [PHP]
 - [JS]
 - [CSS/HTML]
@@ -60,7 +62,9 @@ A subsection that presents a detailed description of the individual functionalit
 - [MySql/MariaDb]
 - [Apache]
 
-## Layout for form in HTML
+ [erd]: <https://github.com/Michal3456/4cti/blob/main/21/sprites/database.png>
+ 
+ ## Layout for form in HTML
 
 [link to layout][form]
 
@@ -68,22 +72,10 @@ A subsection that presents a detailed description of the individual functionalit
 
 [link to sketch a database][db]
 
-## Example of an empty wireframe of the main form on a subpage
+## Wireframe of the main form on a subpage
 
-[Wireframe empty][wireframeExample]
+[link to wireframe][wireframe]
 
-## Wireframe the main form on the application subpage
-
-[Wireframe the main form][wireframeMain]
-
- [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
- 
- [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(1).png>
- 
- [form]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(2).png>
- 
- [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
- 
- [wireframeMain]: <https://github.com/Michal3456/example_project/blob/main/sprites/a_wireframe_subpage_with_the_main_application_form.jpg>
- 
- [wireframeExample]: <https://github.com/Michal3456/example_project/blob/main/sprites/wireframe%20subpage_simple.jpg>
+[form]: <https://github.com/Michal3456/4cti/blob/main/21/sprites/template.png>
+[db]: <https://github.com/Michal3456/4cti/blob/main/21/sprites/database.png>
+[wireframe]: <https://github.com/Michal3456/4cti/blob/main/21/sprites/wireframe.png>
